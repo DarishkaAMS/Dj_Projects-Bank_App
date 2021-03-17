@@ -1,1 +1,1 @@
-# legendary-enigma
+Bank application: accounts, transactions etc.
