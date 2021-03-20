@@ -8,5 +8,7 @@ services:
     ports:
       - 8000:8000
     volumes:
-      - .:/app
-
+     - .:/app
+#  db:
+#    image: mysql:5.7.22
+#    restart: always
